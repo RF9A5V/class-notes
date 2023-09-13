@@ -1,6 +1,6 @@
 # JavaScript Array Methods Cheat Sheet
 
-This cheat sheet summarizes the use of JavaScript's higher-order native array methods based on the provided reading.
+This cheat sheet summarizes the use of JavaScript's higher-order native array methods.
 
 ## Programming Principles:
 1. **DRY (Don't Repeat Yourself)**: Avoid duplicating code.
